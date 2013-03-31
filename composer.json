@@ -1,0 +1,19 @@
+{
+    "name": "mtchart/mtchart",
+    "type": "library",
+    "description": "mtchart, library to make graphs and charts",
+    "keywords": ["graph","chart","pie","mtchart","data"],
+    "homepage": "https://code.google.com/p/mtchart/",
+    "license": "GNU 3",
+    "authors": [
+        {
+            "name": "mtchart team"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0" : {
+            "mtChart" : "lib/"
+        }
+    }
+}
